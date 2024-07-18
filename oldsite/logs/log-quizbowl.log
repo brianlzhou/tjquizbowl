@@ -1,0 +1,5153 @@
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/server.js:6:15)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/server.js:6:15)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/server.js:6:15)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/server.js:6:15)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'hbs'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:7:11)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'hbs'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:7:11)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'hbs'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:7:11)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'hbs'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:7:11)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+Express server started on port: 10014
+/web/activities/quizbowl/public/index.js:12
+app.use('/css', express.static(path.join(__dirname, 'css')))
+                               ^
+
+ReferenceError: path is not defined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:12:32)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+/web/activities/quizbowl/public/index.js:12
+app.use('/css', express.static(path.join(__dirname, 'css')))
+                               ^
+
+ReferenceError: path is not defined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:12:32)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+/web/activities/quizbowl/public/index.js:12
+app.use('/css', express.static(path.join(__dirname, 'css')))
+                               ^
+
+ReferenceError: path is not defined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:12:32)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+/web/activities/quizbowl/public/index.js:12
+app.use('/css', express.static(path.join(__dirname, 'css')))
+                               ^
+
+ReferenceError: path is not defined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:12:32)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'cookie-session'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:9:21)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'cookie-session'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:9:21)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'cookie-session'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:9:21)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'cookie-session'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:9:21)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'cookie-session'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:9:21)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'cookie-session'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:9:21)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'cookie-session'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:9:21)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'cookie-session'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:9:21)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+/web/activities/quizbowl/public/index.js:33
+    redirect_uri: ion_redirect_uri
+                  ^
+
+ReferenceError: ion_redirect_uri is not defined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:19)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+/web/activities/quizbowl/public/index.js:33
+    redirect_uri: ion_redirect_uri
+                  ^
+
+ReferenceError: ion_redirect_uri is not defined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:19)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+/web/activities/quizbowl/public/index.js:33
+    redirect_uri: ion_redirect_uri
+                  ^
+
+ReferenceError: ion_redirect_uri is not defined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:19)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+/web/activities/quizbowl/public/index.js:33
+    redirect_uri: ion_redirect_uri
+                  ^
+
+ReferenceError: ion_redirect_uri is not defined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:19)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+Express server started on port: 10014
+TypeError: Cannot read property 'token' of undefined
+    at /web/activities/quizbowl/public/index.js:46:28
+    at Layer.handle [as handle_request] (/web/activities/quizbowl/public/node_modules/express/lib/router/layer.js:95:5)
+    at next (/web/activities/quizbowl/public/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/web/activities/quizbowl/public/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/web/activities/quizbowl/public/node_modules/express/lib/router/layer.js:95:5)
+    at /web/activities/quizbowl/public/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/web/activities/quizbowl/public/node_modules/express/lib/router/index.js:335:12)
+    at next (/web/activities/quizbowl/public/node_modules/express/lib/router/index.js:275:10)
+    at expressInit (/web/activities/quizbowl/public/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/web/activities/quizbowl/public/node_modules/express/lib/router/layer.js:95:5)
+TypeError: Cannot read property 'token' of undefined
+    at /web/activities/quizbowl/public/index.js:46:28
+    at Layer.handle [as handle_request] (/web/activities/quizbowl/public/node_modules/express/lib/router/layer.js:95:5)
+    at next (/web/activities/quizbowl/public/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/web/activities/quizbowl/public/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/web/activities/quizbowl/public/node_modules/express/lib/router/layer.js:95:5)
+    at /web/activities/quizbowl/public/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/web/activities/quizbowl/public/node_modules/express/lib/router/index.js:335:12)
+    at next (/web/activities/quizbowl/public/node_modules/express/lib/router/index.js:275:10)
+    at expressInit (/web/activities/quizbowl/public/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/web/activities/quizbowl/public/node_modules/express/lib/router/layer.js:95:5)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'simple-oauth2'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:8:20)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'cookie-session'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:10:21)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'cookie-session'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:10:21)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'cookie-session'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:10:21)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'cookie-session'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:10:21)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+internal/modules/cjs/loader.js:582
+    throw err;
+    ^
+
+Error: Cannot find module 'cookie-session'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:580:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:506:25)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:10:21)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+reached
+Express server started on port: 10014
+reached
+Express server started on port: 10014
+sped
+sped
+reached
+Express server started on port: 10014
+sped
+sped
+reached
+Express server started on port: 10014
+sped
+sped
+reached
+Express server started on port: 10014
+sped
+sped
+reached
+Express server started on port: 10014
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+sped
+reached
+Express server started on port: 10014
+no cookie
+no cookie
+reached
+Express server started on port: 10014
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'mNoP8y8VA9zddQcsXCpqhWxO8dLDfz',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'jxHWR8OcVECiv9Oew2DOpmgMe86uTT',
+     expires_at: 2020-03-20T08:41:23.393Z } }
+no cookie
+reached
+Express server started on port: 10014
+ReferenceError: consoe is not defined
+    at /web/activities/quizbowl/public/index.js:51:5
+    at Layer.handle [as handle_request] (/web/activities/quizbowl/public/node_modules/express/lib/router/layer.js:95:5)
+    at next (/web/activities/quizbowl/public/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/web/activities/quizbowl/public/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/web/activities/quizbowl/public/node_modules/express/lib/router/layer.js:95:5)
+    at /web/activities/quizbowl/public/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/web/activities/quizbowl/public/node_modules/express/lib/router/index.js:335:12)
+    at next (/web/activities/quizbowl/public/node_modules/express/lib/router/index.js:275:10)
+    at _cookieSession (/web/activities/quizbowl/public/node_modules/cookie-session/index.js:126:5)
+    at Layer.handle [as handle_request] (/web/activities/quizbowl/public/node_modules/express/lib/router/layer.js:95:5)
+reached
+Express server started on port: 10014
+TypeError: Cannot read property 'token' of undefined
+    at /web/activities/quizbowl/public/index.js:51:29
+    at Layer.handle [as handle_request] (/web/activities/quizbowl/public/node_modules/express/lib/router/layer.js:95:5)
+    at next (/web/activities/quizbowl/public/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/web/activities/quizbowl/public/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/web/activities/quizbowl/public/node_modules/express/lib/router/layer.js:95:5)
+    at /web/activities/quizbowl/public/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/web/activities/quizbowl/public/node_modules/express/lib/router/index.js:335:12)
+    at next (/web/activities/quizbowl/public/node_modules/express/lib/router/index.js:275:10)
+    at _cookieSession (/web/activities/quizbowl/public/node_modules/cookie-session/index.js:126:5)
+    at Layer.handle [as handle_request] (/web/activities/quizbowl/public/node_modules/express/lib/router/layer.js:95:5)
+reached
+Express server started on port: 10014
+reached
+Express server started on port: 10014
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: '7xR7XwDoJCk2fIuSS6QMBw6O5B9g5q',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'ZgZpLsdwdEbV9o3nBjej8NPzGzZW6d',
+     expires_at: 2020-03-20T11:57:40.256Z } }
+no cookie
+reached
+Express server started on port: 10014
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'vvO0UTrDRpqlyglt2ih26Qqztxsrm9',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'X2VGva5I4Nifyn1hHUVHy7lgBEWf8K',
+     expires_at: 2020-03-20T12:02:57.049Z } }
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'RhlFsYa1ddQK2nlMvf7w8GiGZv0yIP',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'votRjXX4eP5ilXqVO4OzbbJAUTzMps',
+     expires_at: 2020-03-20T12:03:59.677Z } }
+no cookie
+reached
+Express server started on port: 10014
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'GgoVBAXFT9vlPpsJq6Dlo3d9yYXUCZ',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'R2rIWzAIXDt11aZ9RorM74WTEF3Fv9',
+     expires_at: 2020-03-20T12:07:01.198Z } }
+no cookie
+reached
+Express server started on port: 10014
+undefined
+no cookie
+undefined
+no cookie
+reached
+Express server started on port: 10014
+undefined
+no cookie
+undefined
+no cookie
+reached
+Express server started on port: 10014
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'x2eZCFUbOwcwvjA68qOYsMNaFB4ItM',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'f9awdBjnhOlg3ENQC7fQ3NsEN2j8PD',
+     expires_at: 2020-03-20T12:20:00.330Z } }
+undefined
+no cookie
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'MFTqOyTqd7lRZRzmXTXdAIP9RArXm9',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'ePMmiq9aHLZE8CawBCpmOpgQQyQ6e9',
+     expires_at: 2020-03-20T12:28:49.945Z } }
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'ftnjwnAArGk5aEUfL4ntSvmP80O7TF',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'CBHmpM07WgWTZ65fyKJcQik6XLWAYV',
+     expires_at: 2020-03-21T02:58:23.875Z } }
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'yoXPuuezbNmldlNhSjolE3uAwuHjPW',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'zGAkR0bvh3K9f1Wu3d6cCOsVB3brFf',
+     expires_at: 2020-03-21T02:58:31.289Z } }
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'mx3apvMl6URW5jywBod2ua7mmEk0vJ',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'DPA9AdTnlTkks5DswlLw9B3nifzsll',
+     expires_at: 2020-04-05T10:09:27.216Z } }
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'U2ay3Hrm3lIQ5MPBna9Fjsr1QeKuH6',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'vrviRmCMoqnTC39HKcq6jn8oL1vIIm',
+     expires_at: 2020-04-07T11:43:58.204Z } }
+undefined
+no cookie
+reached
+Express server started on port: 10014
+reached
+Express server started on port: 10014
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'TIIQvy5jxShYocPx7AvTU1UuMMJuRv',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'ZAhFXVOWZRVv2JzHAOUQXIO988t7xc',
+     expires_at: 2020-04-07T11:51:34.263Z } }
+undefined
+no cookie
+session started
+reached
+Express server started on port: 10014
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'rzaoeoluiGodMCTp88f1E4aGI7nItB',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 't8NRctI44xcdo0px30zKxkqqjeYibB',
+     expires_at: 2020-04-07T11:53:13.796Z } }
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'K7EjhT371IrI3Ibz2JsGFIpwaDQiwa',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'TENdidNFgqytSmjxYaMxiP3Ux18lld',
+     expires_at: 2020-04-07T11:54:42.593Z } }
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'nUJrggmTfqXfbiYUlZKBoqFvvPktgx',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'HLsEGtqARAgXw06s8FXk5RKAaXtcV1',
+     expires_at: 2020-04-07T11:55:00.140Z } }
+undefined
+no cookie
+undefined
+no cookie
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+Express server started on port: 10014
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=n2FQWe3ySWFRrWbqeFzy02nQrukVUZYLebZTTxfK&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=n2FQWe3ySWFRrWbqeFzy02nQrukVUZYLebZTTxfK&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+session started
+reached
+Express server started on port: 10014
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+session started
+reached
+Express server started on port: 10014
+Express server started on port: 10014
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+session started
+reached
+Express server started on port: 10014
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'gmOzvgnsPb6rU7vXrSHIGacPIN3cBn',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'lLB7J45PY8EMNTO4y6LnAXq0dGYuQj',
+     expires_at: 2020-04-13T10:18:27.784Z } }
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+Express server started on port: 10014
+Express server started on port: 10014
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'pbgQVlDudqvixyo0BjXB9o2xqHj5MC',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'Ml2uuMBndS6batzweIvdkKZ2UN2R1T',
+     expires_at: 2020-04-15T04:31:38.482Z } }
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+Express server started on port: 10014
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'fFMKOq9TgRW1zxNUoZojwm1IsKLqi1',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'pd5clqVtsXj2ukwt654PN3xWLnrfb6',
+     expires_at: 2020-04-15T04:33:17.258Z } }
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'gUPBxUgqFZxCswTxmF47R6F11Ym1Sv',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'sEg05YQgabGqq9tfy8euJwB16YdOaz',
+     expires_at: 2020-04-15T04:33:21.286Z } }
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+Express server started on port: 10014
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'Kk1MX9AAepxrGNl12ih81EACZdnlgs',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'RmPZxuzgzghB7jibhRptN2o0ni5Pvq',
+     expires_at: 2020-04-15T04:33:39.473Z } }
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+Express server started on port: 10014
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'HfmEclWSRPqdJDEhTTfv8Ppc8Nmdc2',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'LCAp0k87bX8qfHE8dDegAmONUjVxcB',
+     expires_at: 2020-04-15T04:34:39.948Z } }
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+Express server started on port: 10014
+Express server started on port: 10014
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'qAk1soRe9xX6gcehP0qsKmvNryvRWu',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'jow6nxnjOM0gsBSXLtEmOuAbjyS4xo',
+     expires_at: 2020-04-15T04:36:02.425Z } }
+(node:7502) UnhandledPromiseRejectionWarning: ReferenceError: jwt is not defined
+    at /web/activities/quizbowl/public/oauth.js:194:29
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:7502) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:7502) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+Express server started on port: 10014
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'E0cIi33UosgTgDlicBvY96kgC9fHii',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'TCsduONZIeai0EYwNz9SSF0oQLVkH1',
+     expires_at: 2020-04-15T04:49:25.849Z } }
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+Express server started on port: 10014
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'zWJDaxoDxdWEOYe040wZ6g96QMqs9I',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'M1HDmnwVUSQflQdXABSqbz98m8D9aa',
+     expires_at: 2020-04-15T04:50:31.072Z } }
+Express server started on port: 10014
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'sTAnPZ0VTp6AdPm7cKGAAnbNKm6Ept',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'GPDyJ4RwinOvVEK9CnfUDajEkPAqnN',
+     expires_at: 2020-04-15T04:50:53.605Z } }
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+Express server started on port: 10014
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'aJxL7PIouSl0hNHBxkxogoV4X7ZSsf',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'bHirNKEnx9ZFhk5ErumVxtaq5bX3a9',
+     expires_at: 2020-04-15T04:51:33.237Z } }
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'YO07NpY0iXpzAw9bKI7WJsHmeGW3p7',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'EMyLFzDjD3HUL7UhNuLzOuAEz1feLX',
+     expires_at: 2020-04-15T04:51:37.903Z } }
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'CI2ELM6XLIvpJXVlxBBfsLXMMxj4sr',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'u00ax7QsX9JqDfvhcrohiHdzFMFHHo',
+     expires_at: 2020-04-15T08:13:37.783Z } }
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'CMIbvBA6eAJQKzoh1Q5cSHyuD3eWZh',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'yUixlNP0wabzK5ex9UZ2MVTa7Fc26D',
+     expires_at: 2020-04-21T01:00:16.883Z } }
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'T6KIMPnTbiD92g6Z4ibWzq6HlUmQio',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'CH43ltmBeWblLirkdboeF6o1eztmop',
+     expires_at: 2020-04-24T05:29:30.078Z } }
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'UTimwjVjO8W9Ncg7DMRp6bl5jEPORP',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'IjwcigMtsarDiyfpgRBMEGj4DnWA6a',
+     expires_at: 2020-04-24T05:29:50.693Z } }
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'kIZp7y7CT7NsJY8FpxBh4w9OlTNYSG',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'URHEKn0nM3osH7TZgoGXdO6UVOwyk8',
+     expires_at: 2020-04-24T05:30:37.756Z } }
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 's4AmkSyuNsZMalKAfBGFW6h6froDpc',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'kPs58NawTNJbqKuYU3n6DiMZRsBsMi',
+     expires_at: 2020-04-24T05:30:40.603Z } }
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'EI9CsmAQwjgsqNSfQcfsbQ7E9Z9v3O',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'MOtgvBtTrFflsTHqmYijbRNfOCg1AI',
+     expires_at: 2020-04-24T05:30:42.924Z } }
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'zDb9yKsTRJtbgVxPeZuc6elU2RgFhm',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'G4B8aGqNUa1RifoxRlFSTkX2b3fYEe',
+     expires_at: 2020-04-24T05:30:45.429Z } }
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'v4deY8BR7ycqvXUF8pcnXBZVhUYnaA',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'UoyuJuSzOwp33XWyo8nMR16yvYBPuL',
+     expires_at: 2020-04-24T05:30:47.965Z } }
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'yLKWSUEvDCz1MOzvgxguIwH7cGRBNh',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'mA6cnjfiDXYkg1LKnbmXqfIBEVhwia',
+     expires_at: 2020-04-24T05:32:17.341Z } }
+https://ion.tjhsst.edu/oauth/authorize?response_type=code&client_id=2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR&scope=read&redirect_uri=https%3A%2F%2Factivities.tjhsst.edu%2Fquizbowl%2Flogin_worker
+session started
+reached
+Express server started on port: 10014
+undefined
+no cookie
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'PgFkmb14EdPz2lU8miEkOqbLMmNiNH',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'MmF7S0DcLxZzIOVbpLyDCRhOxeKHhD',
+     expires_at: 2020-04-24T05:40:01.633Z } }
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'SpK4IXAddp2pYOFxU3Z23Dz2CamhXo',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'SQNk8XyferpVTBOHZZSbAB2xJ2ZPIR',
+     expires_at: 2020-04-24T10:49:09.691Z } }
+undefined
+no cookie
+session started
+reached
+Express server started on port: 10014
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'd69BblKkofTORqOYcrIf2DbqJHyjg1',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'rtfQNrqnHcIF16proHdZwcHI57686j',
+     expires_at: 2020-04-24T10:51:06.157Z } }
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'BpyYUzUENVL4P0im5182iJuesCH4NN',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'CqSmcDK33mRoZqIhPXW8elrhamvfwZ',
+     expires_at: 2020-04-24T10:51:10.026Z } }
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'GbIzYqhBPFMWq6G2g90o6LTQfjtf2s',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'h40w34F9edd3oZhtKB1spXFh2qMqvT',
+     expires_at: 2020-04-24T10:51:15.755Z } }
+undefined
+no cookie
+session started
+reached
+Express server started on port: 10014
+undefined
+no cookie
+TypeError: Cannot read property 'token' of undefined
+    at /web/activities/quizbowl/public/index.js:58:31
+    at Layer.handle [as handle_request] (/web/activities/quizbowl/public/node_modules/express/lib/router/layer.js:95:5)
+    at next (/web/activities/quizbowl/public/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/web/activities/quizbowl/public/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/web/activities/quizbowl/public/node_modules/express/lib/router/layer.js:95:5)
+    at /web/activities/quizbowl/public/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/web/activities/quizbowl/public/node_modules/express/lib/router/index.js:335:12)
+    at next (/web/activities/quizbowl/public/node_modules/express/lib/router/index.js:275:10)
+    at _cookieSession (/web/activities/quizbowl/public/node_modules/cookie-session/index.js:126:5)
+    at Layer.handle [as handle_request] (/web/activities/quizbowl/public/node_modules/express/lib/router/layer.js:95:5)
+session started
+reached
+Express server started on port: 10014
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'qvG7zwqdvwLvwHIUXWKJb3AwODcwO5',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: '9T4e88ve487nzbKCJxnOjfAswaOfHU',
+     expires_at: 2020-04-24T10:56:32.332Z } }
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'XdP8OqC56Xjojjp4zTlwTWHWmTMM3z',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'A1JQ5DSbNV2yIBrUij7MK903YiKCQg',
+     expires_at: 2020-04-24T10:56:40.776Z } }
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+session started
+reached
+/web/activities/quizbowl/public/index.js:33
+var ion_client_id = keys.ion.clientID;
+                             ^
+
+TypeError: Cannot read property 'clientID' of undefined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:30)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+session started
+reached
+/web/activities/quizbowl/public/index.js:33
+var ion_client_id = keys.ion.clientID;
+                             ^
+
+TypeError: Cannot read property 'clientID' of undefined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:30)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+session started
+reached
+/web/activities/quizbowl/public/index.js:33
+var ion_client_id = keys.ion.clientID;
+                             ^
+
+TypeError: Cannot read property 'clientID' of undefined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:30)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+session started
+reached
+/web/activities/quizbowl/public/index.js:33
+var ion_client_id = keys.ion.clientID;
+                             ^
+
+TypeError: Cannot read property 'clientID' of undefined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:30)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+session started
+reached
+/web/activities/quizbowl/public/index.js:33
+var ion_client_id = keys.ion.clientID;
+                             ^
+
+TypeError: Cannot read property 'clientID' of undefined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:30)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+session started
+reached
+/web/activities/quizbowl/public/index.js:33
+var ion_client_id = keys.ion.clientID;
+                             ^
+
+TypeError: Cannot read property 'clientID' of undefined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:30)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+session started
+reached
+/web/activities/quizbowl/public/index.js:33
+var ion_client_id = keys.ion.clientID;
+                             ^
+
+TypeError: Cannot read property 'clientID' of undefined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:30)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+session started
+reached
+/web/activities/quizbowl/public/index.js:33
+var ion_client_id = keys.ion.clientID;
+                             ^
+
+TypeError: Cannot read property 'clientID' of undefined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:30)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+session started
+reached
+/web/activities/quizbowl/public/index.js:33
+var ion_client_id = keys.ion.clientID;
+                             ^
+
+TypeError: Cannot read property 'clientID' of undefined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:30)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+session started
+reached
+/web/activities/quizbowl/public/index.js:33
+var ion_client_id = keys.ion.clientID;
+                             ^
+
+TypeError: Cannot read property 'clientID' of undefined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:30)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+session started
+reached
+/web/activities/quizbowl/public/index.js:33
+var ion_client_id = keys.ion.clientID;
+                             ^
+
+TypeError: Cannot read property 'clientID' of undefined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:30)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+session started
+reached
+/web/activities/quizbowl/public/index.js:33
+var ion_client_id = keys.ion.clientID;
+                             ^
+
+TypeError: Cannot read property 'clientID' of undefined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:30)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+session started
+reached
+/web/activities/quizbowl/public/index.js:33
+var ion_client_id = keys.ion.clientID;
+                             ^
+
+TypeError: Cannot read property 'clientID' of undefined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:30)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+/web/activities/quizbowl/public/keys.js:7
+module.export(ion)
+             ^
+
+TypeError: module.export is not a function
+    at Object.<anonymous> (/web/activities/quizbowl/public/keys.js:7:14)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:12:12)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+/web/activities/quizbowl/public/keys.js:7
+module.export(ion)
+             ^
+
+TypeError: module.export is not a function
+    at Object.<anonymous> (/web/activities/quizbowl/public/keys.js:7:14)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:12:12)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+/web/activities/quizbowl/public/keys.js:7
+module.export(ion)
+             ^
+
+TypeError: module.export is not a function
+    at Object.<anonymous> (/web/activities/quizbowl/public/keys.js:7:14)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:12:12)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+/web/activities/quizbowl/public/keys.js:7
+module.export(ion)
+             ^
+
+TypeError: module.export is not a function
+    at Object.<anonymous> (/web/activities/quizbowl/public/keys.js:7:14)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:12:12)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+/web/activities/quizbowl/public/keys.js:7
+module.export(ion)
+             ^
+
+TypeError: module.export is not a function
+    at Object.<anonymous> (/web/activities/quizbowl/public/keys.js:7:14)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Module.require (internal/modules/cjs/loader.js:636:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:12:12)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+session started
+reached
+/web/activities/quizbowl/public/index.js:33
+var ion_client_id = keys.ion.clientID;
+                             ^
+
+TypeError: Cannot read property 'clientID' of undefined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:30)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+session started
+reached
+/web/activities/quizbowl/public/index.js:33
+var ion_client_id = keys.ion.clientID;
+                             ^
+
+TypeError: Cannot read property 'clientID' of undefined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:30)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+session started
+reached
+/web/activities/quizbowl/public/index.js:33
+var ion_client_id = keys.ion.clientID;
+                             ^
+
+TypeError: Cannot read property 'clientID' of undefined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:30)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+session started
+reached
+/web/activities/quizbowl/public/index.js:33
+var ion_client_id = keys.ion.clientID;
+                             ^
+
+TypeError: Cannot read property 'clientID' of undefined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:30)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+session started
+{ clientID: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+  clientSecret:
+   'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+  redirectURI: 'https://activities.tjhsst.edu/quizbowl/login_worker' }
+reached
+/web/activities/quizbowl/public/index.js:33
+var ion_client_id = keys.ion.clientID;
+                             ^
+
+TypeError: Cannot read property 'clientID' of undefined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:30)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+session started
+{ clientID: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+  clientSecret:
+   'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+  redirectURI: 'https://activities.tjhsst.edu/quizbowl/login_worker' }
+reached
+/web/activities/quizbowl/public/index.js:33
+var ion_client_id = keys.ion.clientID;
+                             ^
+
+TypeError: Cannot read property 'clientID' of undefined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:30)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+session started
+{ clientID: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+  clientSecret:
+   'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+  redirectURI: 'https://activities.tjhsst.edu/quizbowl/login_worker' }
+reached
+/web/activities/quizbowl/public/index.js:33
+var ion_client_id = keys.ion.clientID;
+                             ^
+
+TypeError: Cannot read property 'clientID' of undefined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:30)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+session started
+{ clientID: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+  clientSecret:
+   'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+  redirectURI: 'https://activities.tjhsst.edu/quizbowl/login_worker' }
+reached
+/web/activities/quizbowl/public/index.js:33
+var ion_client_id = keys.ion.clientID;
+                             ^
+
+TypeError: Cannot read property 'clientID' of undefined
+    at Object.<anonymous> (/web/activities/quizbowl/public/index.js:33:30)
+    at Module._compile (internal/modules/cjs/loader.js:688:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:529:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:741:12)
+    at startup (internal/bootstrap/node.js:285:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:739:3)
+session started
+{ ion:
+   { clientID: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+     clientSecret:
+      'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+     redirectURI: 'https://activities.tjhsst.edu/quizbowl/login_worker' } }
+reached
+Express server started on port: 10014
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'UoEOCDZtZL3dFc9c8gqFlsYX8wtL5o',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'udRj1PcmCmgYtgVEoSf7IxFzdszqjD',
+     expires_at: 2020-05-01T03:07:59.884Z } }
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'lDft7MumxwxgOuAuBtTjEb1AfDfYGu',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: '3PhXht0Bu9hKM3uJ9u8jtNjQUEdZb4',
+     expires_at: 2020-05-01T03:08:10.665Z } }
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'PslTZOf4kgs9cT0zQ2S1LcRDB62dWK',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: '1KSG8layEK9UzNsgh7m0OlBieu3sCt',
+     expires_at: 2020-05-01T04:28:46.427Z } }
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'EOKa7TJnd68giiQr62Rf8kQnf7PXTy',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'XN7gHfPNHMxxc5TcXD4oyuTofVoKXp',
+     expires_at: 2020-05-05T05:43:12.359Z } }
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'IObjnZVSxXHgD4BMTO89AUc1LOTpVK',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'OUlavOKj0NVczB7MjodSvy4GTolXP6',
+     expires_at: 2020-05-18T04:17:21.098Z } }
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'TaebckJeJMYWXk2XbHz5N3ZlPH32yy',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: '1w0iGBI4qGs8zm6W70AQIE1IDaPsy8',
+     expires_at: 2020-06-10T04:02:11.795Z } }
+undefined
+no cookie
+AccessToken {
+  config:
+   { client:
+      { id: '2KZ1yTmSYZqctBQlhMqe6yNE9GespUgs8NPDMdJR',
+        secret:
+         'kgqrgFJmDVMMlSQjdB7NwfsTk1RcH7hmp9JMGVdDAdVuoMRY3c6ZbLQ7AmrvfXCZ9mHF41z8Gd6x9aOeivP05WD513CumBibL2DSWGQrTh1PkSAtujdbjQLwmFSETp54',
+        secretParamName: 'client_secret',
+        idParamName: 'client_id' },
+     auth:
+      { tokenHost: 'https://ion.tjhsst.edu/oauth/',
+        authorizePath: 'https://ion.tjhsst.edu/oauth/authorize',
+        tokenPath: 'https://ion.tjhsst.edu/oauth/token/',
+        revokePath: '/oauth/revoke',
+        authorizeHost: 'https://ion.tjhsst.edu/oauth/' },
+     options:
+      { scopeSeparator: ' ',
+        credentialsEncodingMode: 'strict',
+        bodyFormat: 'form',
+        authorizationMethod: 'header' } },
+  client:
+   Client {
+     config: { client: [Object], auth: [Object], options: [Object] },
+     client: { _defaults: [Object], agents: [Object] } },
+  token:
+   { access_token: 'mcoOV2Wz8e4AKKz1DvX90qlg09McsX',
+     expires_in: 36000,
+     token_type: 'Bearer',
+     scope: 'read',
+     refresh_token: 'awD3rgDdOKrnomew6k2lz079p45T9t',
+     expires_at: 2020-06-10T04:02:16.317Z } }
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+session started
+reached
+Express server started on port: 10014
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
+undefined
+no cookie
