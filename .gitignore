@@ -1,0 +1,26 @@
+# Logs
+*.log
+php.error.log
+error_log
+
+# Private directories and sensitive files
+private/
+old2020site/private/
+**/private/
+**/config.php
+**/Client.php
+
+# Environment files
+.env
+.env.*
+
+# IDE and system files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+
+# Dependencies
+node_modules/
+vendor/ 
